@@ -128,3 +128,29 @@ curl -X POST "http://localhost:8888/sum?upto=5"
    - Run `npm install` again
    - Verify tsconfig.json exists
    - Check file extensions (.tsx)
+
+## Submission Details
+
+- **Repository URL**: https://github.com/Mina-Sayed/Suprema_FullStack
+- **Submitted By**: Mina Sayed
+- **Submission Date**: January 28, 2025
+
+### Project Requirements Met:
+
+1. Backend (FastAPI)
+   - POST endpoint at `/sum?upto={number}`
+   - JSON response with success, value, and error fields
+   - Error handling implemented
+   - CORS enabled for frontend communication
+
+2. Frontend (React)
+   - Input field for number entry
+   - Displays API response
+   - Error handling and loading states
+   - Clean and responsive UI
+
+3. Documentation
+   - Complete setup instructions
+   - API documentation
+   - Clear project structure
+   - Troubleshooting guide
